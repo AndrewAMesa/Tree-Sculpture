@@ -1,2 +1,2 @@
 # treesculpture
-Javascript code for LED pattern that reflects the changing seasons
+This JavaScript code was created for an LED tree sculpture that reflects the changing seasons. The tree starts with a boot-up cycle then transitions to summer colors, then fall, then winter, and finally spring. It will repeat this summer-to-spring cycle until the LEDs are powered off. This code was designed to be flashed onto the PixelBlaze WIFI LED controller and control 300 individually addressable LEDs. The code can be altered to work on LED strips with more than 300 LEDs. 
