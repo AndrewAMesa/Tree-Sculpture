@@ -14,7 +14,7 @@ for(i = 0; i < pixelCount; i++){ // set what leafs are fruit
   check = random(5)
   if (check <= 1.2){
     setPixelsSpring[i] = 0
-    if (i != 0 && i != pixelCount-1){ // So no fruits are right next to eachother
+    if (i != 0 && i != pixelCount-1){ // So no blossoms are right next to eachother
       setPixelsSpring[i - 1] = 1
       setPixelsSpring[i + 1] = 1
     }
