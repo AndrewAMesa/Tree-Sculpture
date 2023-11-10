@@ -4,5 +4,5 @@ This JavaScript code was created for an LED tree sculpture that reflects the cha
 Instructions to Run Code <br>
 1: Set up PixelBlaze WIFI LED controller. Instructions for this can be found here: https://electromage.com/docs/quickstart-v3-standard. <br>
 2: Once connected to the controller navigate to the IDE and create a new pattern. <br>
-3: Paste code in pattern.js into the code editor and save the code. The pattern then should automatically start. <br>
+3: Paste code from pattern.js into the code editor and save the code. The pattern then should automatically start. <br>
 4: To restart the pattern make a change to the code that doesn't impact logic (ex. type a space character) and save the new code. <br>
