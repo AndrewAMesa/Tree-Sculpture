@@ -1,4 +1,4 @@
-mode = -1 // states which season we are in, set initially to negative one to force boot-up phase to run once
+mode = -1 // states which season we are in, set initially to negative one to force the startup phase to run once
 timer = 0 // timer used to switch between seasons
 transitionTimer = 0 // timer used to enable LEDs to transition between seasons
 timeToSwitch = 8000 // represents how long a season lasts in milliseconds (8 seconds)
