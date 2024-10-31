@@ -113,7 +113,7 @@ export function checkSpring(delta) {
     }
 }
 
-/* Runs before LED color is renders, mostly includes timer logic */
+/* Runs before LED color is rendered, mostly includes timer logic */
 /* delta is the time change since the last call in milliseconds */
 export function beforeRender(delta) {
     if (mode == -1) { // runs the startup cycle
